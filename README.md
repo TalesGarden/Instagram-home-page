@@ -1,5 +1,5 @@
 # Instagram home page
-created from bootcamp classes Santander Bootcamp Fullstack Developer
+Created from bootcamp classes Santander Bootcamp Fullstack Developer
 
 
 ## Tech Stack
